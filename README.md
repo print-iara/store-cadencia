@@ -13,13 +13,13 @@ Este proyecto es una tienda online de objetos de diseño vintage desarrollada co
 1. Cloná el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/print-iara/store-cadencia
 ```
 
 2. Ingresá a la carpeta del proyecto:
 
 ```bash
-cd nombre-del-proyecto
+cd store-cadencia
 ```
 
 3. Instalá las dependencias:
@@ -40,7 +40,7 @@ npm run dev
 
 ## 🔐 Acceso como administrador
 
-Para acceder a las funciones de administrador (como agregar productos), debés iniciar sesión con el nombre de usuario `admin`.
+Para acceder a las funciones de administrador (como agregar productos), debés iniciar sesión con el nombre de usuario `administrador@gmail.com` y la contaseña "test12".
 
 ---
 

@@ -1,0 +1,29 @@
+/* .header-fondo {
+    object-fit: cover; 
+
+}*/
+
+/* .header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: white;
+} */
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    color: #333;
+
+}
+
+.letra {
+    font-family: 'Playfair Display', serif;
+}
+.carousel-item img {
+  height: 400px; /* o el alto que prefieras */
+  width: 100%;
+  object-fit: cover;
+}

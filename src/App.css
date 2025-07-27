@@ -1,0 +1,16 @@
+#root {
+
+  margin: 0 auto;
+  padding: 0;
+  padding-bottom: 20px;
+  text-align: center;
+  background-color: #e4e5e6;
+
+
+}
+
+.logo {
+  width: 80px;
+  height: auto;
+  margin-bottom: 1rem;
+}
